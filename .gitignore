@@ -1,0 +1,8 @@
+*.dll
+*.log
+bin/
+obj/
+packages/
+*.suo
+*.pubxml
+*.pubxml.user
